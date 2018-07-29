@@ -1,0 +1,50 @@
+.hover a:hover {
+    background-color: grey;
+    opacity: 0.5;
+}
+
+.hover {
+    width: 5.2rem;
+}
+
+.hover a {
+    padding: 0;
+}
+
+.logo {
+    font-family: 'Abril Fatface', cursive;
+    font-size: 2rem;
+}
+
+h5 {
+    font-size: 30px !important;
+}
+
+.fa-3x {
+    margin: 5px 10px;
+}
+
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+main {
+    flex: 1 0 auto;
+}
+
+.responsive-img {
+    margin: 10px;
+}
+.flow-text {
+    padding: 7px;
+}
+
+/* .material-icons {
+    margin: 5px;
+} */
+
+.page-footer {
+    padding-top: 2px;
+}
