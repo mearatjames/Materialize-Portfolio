@@ -34,9 +34,6 @@ main {
     flex: 1 0 auto;
 }
 
-.responsive-img {
-    margin: 10px;
-}
 .flow-text {
     padding: 7px;
 }
@@ -47,4 +44,8 @@ main {
 
 .page-footer {
     padding-top: 2px;
+}
+
+.responsive-img {
+    padding: 10px;
 }
