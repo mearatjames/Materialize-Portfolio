@@ -35,7 +35,7 @@ main {
 }
 
 .flow-text {
-    padding: 7px;
+    padding: 10px;
 }
 
 .page-footer {
@@ -44,4 +44,5 @@ main {
 
 .responsive-img {
     padding: 10px;
+    margin: 10px;
 }
